@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dfdfdf;
+}
+
+header{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 5vh;
+}
+h1{
+    color: red;
+}
+span{
+    color: black;
+}
+
+h3{
+    color: back;
+}
+
+main{
+    text-align: center;
+    position: relative;
+    top: 15vh;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+}
+
+div{
+    position: relative;
+    top: 55px;
+    left: 20px;
+}
+
+label{
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+    position: absolute;
+    left: 1px;
+}
+
+.name{
+    width: 30vh;
+    height: 6vh;
+    margin-top: 2vh;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: large;
+    border-color: #8d8d8d;
+    border-style: outset;
+}
+
+.same{
+    width: 60vh;
+    height: 7vh;
+    position: relative;
+    right: 0.3vh;
+    margin-top: 2vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: large;
+    border-color: #8d8d8d;
+}
+
+select{
+    font-family: 'Roboto', sans-serif;
+    width: 60vh;
+    height: 7vh;
+    margin-top: 2vh;
+}
+
+option{
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.butt{
+    width: 100px;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    right: 140px;
+}
+
+.succer{
+    color: #008000;
+}
+
+strong{
+    position: relative;
+    bottom: 65px;
+}
